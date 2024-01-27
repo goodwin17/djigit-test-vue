@@ -1,0 +1,28 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "text": "Buy some milk",
+            "done": false,
+            "createdAt": 1706333333
+        },
+        {
+            "id": 2,
+            "text": "Send a message",
+            "done": true,
+            "createdAt": 1706222222
+        },
+        {
+            "id": 3,
+            "text": "Go for a walk",
+            "done": false,
+            "createdAt": 1705988888
+        },
+        {
+            "id": 4,
+            "text": "Do something",
+            "done": false,
+            "createdAt": 1705222222
+        }
+    ]
+}
