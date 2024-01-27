@@ -1,4 +1,4 @@
-# Djigit test task
+# DjigIT test task project
 
 Vue app test project
 
