@@ -7,7 +7,7 @@ import NotFoundView from '@/views/NotFoundView.vue';
 import store from "@/store";
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHistory(import.meta.env.BASE_URL),
     routes: [
         {
             path: '/',
