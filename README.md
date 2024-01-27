@@ -11,6 +11,7 @@ Technologies used:
 - SASS
 - Vite
 
+Live preview: https://goodwin17.github.io/djigit-test-vue
 
 ## Project Setup
 
